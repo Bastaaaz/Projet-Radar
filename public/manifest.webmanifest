@@ -1,0 +1,26 @@
+{
+  "name": "PROJECT RADAR — Discovery Engine V2",
+  "short_name": "Project Radar",
+  "description": "Veille d'innovations grand public, filtres anti-bruit, vérifications croisées IA et comparateur.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#F6F4EF",
+  "theme_color": "#17181A",
+  "lang": "fr",
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
